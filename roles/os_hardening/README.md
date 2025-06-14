@@ -173,6 +173,7 @@ This role is mostly based on guides by:
 <!-- BEGIN_ANSIBLE_DOCS -->
 
 ## Supported Operating Systems
+
 - EL
   - 8, 9
 - Ubuntu

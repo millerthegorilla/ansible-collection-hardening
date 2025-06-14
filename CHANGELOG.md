@@ -1,13 +1,20 @@
 # Changelog
 
-## [10.3.1](https://github.com/dev-sec/ansible-collection-hardening/tree/10.3.1) (2025-05-08)
+## [10.3.1](https://github.com/dev-sec/ansible-collection-hardening/tree/10.3.1) (2025-06-10)
 
 [Full Changelog](https://github.com/dev-sec/ansible-collection-hardening/compare/10.3.0...10.3.1)
 
+**Fixed bugs:**
+
+- Readme states Ansible \>= 2.9.10, but it uses password\_expire\_warn from  2.16 [\#871](https://github.com/dev-sec/ansible-collection-hardening/issues/871)
+
 **Merged pull requests:**
 
+- chore\(deps\): update creyd/prettier\_action action to v4.6 [\#876](https://github.com/dev-sec/ansible-collection-hardening/pull/876) ([renovate[bot]](https://github.com/apps/renovate))
+- chore\(deps\): update dependency ansible-core to v2.18.6 [\#872](https://github.com/dev-sec/ansible-collection-hardening/pull/872) ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(deps\): update creyd/prettier\_action action to v4.5 [\#869](https://github.com/dev-sec/ansible-collection-hardening/pull/869) ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(ssh\_hardening\): ansible 2.19 compatibility [\#868](https://github.com/dev-sec/ansible-collection-hardening/pull/868) [[ssh_hardening](https://github.com/dev-sec/ansible-collection-hardening/labels/ssh_hardening)] ([Nemental](https://github.com/Nemental))
+- chore\(deps\): update ansible/ansible-lint digest to e98f9b3 [\#867](https://github.com/dev-sec/ansible-collection-hardening/pull/867) ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(deps\): update dependency ansible-core to v2.18.5 [\#865](https://github.com/dev-sec/ansible-collection-hardening/pull/865) ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(deps\): update ansible/ansible-lint digest to c16f018 [\#863](https://github.com/dev-sec/ansible-collection-hardening/pull/863) ([renovate[bot]](https://github.com/apps/renovate))
 - chore\(deps\): update ansible/ansible-lint digest to 6a4fcdb [\#862](https://github.com/dev-sec/ansible-collection-hardening/pull/862) ([renovate[bot]](https://github.com/apps/renovate))

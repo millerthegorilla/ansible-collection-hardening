@@ -63,6 +63,7 @@ Note that on Coreos remote systems, neither python nor python-rpm is installed a
 <!-- BEGIN_ANSIBLE_DOCS -->
 
 ## Supported Operating Systems
+
 - EL
   - 8, 9
 - Ubuntu
